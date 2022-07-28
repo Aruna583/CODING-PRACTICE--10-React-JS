@@ -25,5 +25,5 @@ const SuggestionItem = props => {
     </li>
   )
 }
-
+//fix export suggestionItem
 export default SuggestionItem
